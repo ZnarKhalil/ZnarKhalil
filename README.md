@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Go<br>🎲 Fun fact: Unemployeed</p>
+<p align="left">✨ Creating bugs since 2016<br>📚 Currently diving into Go and eager to expand my backend toolkit!<br>🎲 Fun fact: Unemployeed</p>
 
 ###
 
